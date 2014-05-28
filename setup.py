@@ -291,7 +291,7 @@ if include_debugger:
 
 setup(
   name = 'Cython',
-  version = version,
+  version = "0.21",
   url = 'http://www.cython.org',
   author = 'Robert Bradshaw, Stefan Behnel, Dag Seljebotn, Greg Ewing, et al.',
   author_email = 'cython-devel@python.org',
